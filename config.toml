@@ -1,4 +1,4 @@
-baseURL = "https://qingchuan-ma.github.io/"
+baseURL = "https://qingchuan-ma.github.io/homepage"
 languageCode = "en-us"
 title = "Qingchuan-Ma's Homepage"
 theme = "hugo-initio"

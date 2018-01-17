@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qingchuan-ma.github.io/post/test/</loc>
+    <loc>https://qingchuan-ma.github.io/homepage/post/test/</loc>
     <lastmod>2018-01-17T09:14:43+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qingchuan-ma.github.io/categories/</loc>
+    <loc>https://qingchuan-ma.github.io/homepage/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://qingchuan-ma.github.io/post/</loc>
-    <lastmod>2018-01-17T09:14:43+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qingchuan-ma.github.io/</loc>
+    <loc>https://qingchuan-ma.github.io/homepage/post/</loc>
     <lastmod>2018-01-17T09:14:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://qingchuan-ma.github.io/tags/</loc>
+    <loc>https://qingchuan-ma.github.io/homepage/</loc>
+    <lastmod>2018-01-17T09:14:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qingchuan-ma.github.io/homepage/tags/</loc>
     <priority>0</priority>
   </url>
   
